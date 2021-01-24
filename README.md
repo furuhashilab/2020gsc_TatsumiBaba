@@ -28,6 +28,7 @@
 ## 参考文献
 
 ## プレゼンスライド
+https://docs.google.com/presentation/d/1H85FTqR-6-wKqo0yw27PWMEKncuCJZtcp5A1FQeMtMM/edit?usp=sharing
 
 ## プロジェクトリンク
 
