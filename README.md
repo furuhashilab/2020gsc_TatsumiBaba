@@ -19,16 +19,16 @@
 ## 概要
 
 
-## 研究紹介（Introduction）
+## Introduction
  
+## Method
 
-## 結果(Result)
-
-
-## 研究議論（Discussion）
+## Result
 
 
-## 結論・課題(Conclusion)
+## Discussion
+
+## Conclusion
 
 ## 参考文献
 
