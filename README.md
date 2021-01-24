@@ -31,6 +31,7 @@
 https://docs.google.com/presentation/d/1H85FTqR-6-wKqo0yw27PWMEKncuCJZtcp5A1FQeMtMM/edit?usp=sharing
 
 ## プロジェクトリンク
+https://github.com/furuhashilab/2020gsc_TatsumiBaba/projects/1
 
 ## Medium
 
