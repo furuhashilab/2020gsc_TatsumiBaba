@@ -16,17 +16,12 @@
 
 # 【2020年度ゼミ論】タイトル：
 
-## 概要
-
 
 ## Introduction
  
 ## Method
 
 ## Result
-
-
-## Discussion
 
 ## Conclusion
 
