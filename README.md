@@ -40,9 +40,20 @@ https://medium.com/furuhashilab/tedx%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B
 *  ### TEDxNagoyaU<br>
  YouTube、ZOOM、LINEの三つを使用した方法であった。YouTubeのプレミア配信で６名のスピーカーが登壇しているだが、途中でZOOMに移行し、参加者がスピーカーに質問を投げかけることが出来たり、スタッフと交流できたりする時間を設け、再びYouTubeでトークを視聴して終了するというものであった。それに加え、LINEのオープンチャットで、運営と参加者との円滑なコミュニケーションを可能にした。これに続き、我々TEDxAoyamaGakuinUを筆頭に様々な日本の大学が同じようなトークイベントを開催するようになった。
  
+ 
  正直、今回の提案は、TEDxNagoyaUが実施したようなシンプルなトークイベントを開催することに関してのものであるので、ワークショップや議論を中心としたイベントはTEDxオンライン事例としてのみ取り上げさせて頂きたいと思う。
  
- さて、自分たちの開催が終了した後に実施されたTEDxDoushishaU、TEDxRikkyoU、TEDxTeikyoU、TEDxTsukubaUには、実際に私含め数人のメンバーが参加してきた。この各団体の開催は、ベースとする形式は似つつも、少しずつ違った手法を取っていたので、それぞれ形式と技術面の特徴、交流会の実施方法、参加者視点の感想をフィードバックとしてGitHub projectでまとめてた。このフィードバックを頭に入れたのち、1月30日（土）にTEDxU合同オンラインMTGを実施した。同志社大学・立教大学・青山学院大学の３大学での実施であり、各大学がどのように開催したのかを共有してから、「使用ツールの利便性、撮影・編集のスキル共有、機材はどの程度のものを使用したのか、オンライン開催を実施する上で大切な演出とは何か、そして今後のTEDxオンライン開催に向けてのアイディア」という議題に絞り、話し合いを行った。
+ さて、自分たちの開催が終了した後に実施されたTEDxDoushishaU、TEDxRikkyoU、TEDxTeikyoU、TEDxTsukubaUには、実際に私含め数人のメンバーが参加してきた。この各団体の開催は、ベースとする形式は似つつも、少しずつ違った手法を取っていたので、それぞれ形式と技術面の特徴、交流会の実施方法、参加者視点の感想をフィードバックとしてGitHub projectでまとめてた。
+ 
+ * ### [TEDxDoushishaU](https://github.com/furuhashilab/2020gsc_TatsumiBaba/issues/1#issuecomment-737054667)
+ * ### [TEDxRikkyoU](https://github.com/furuhashilab/2020gsc_TatsumiBaba/issues/2#issuecomment-745426724)
+ * ### [TEDxTeikyoU](https://github.com/furuhashilab/2020gsc_TatsumiBaba/issues/3#issuecomment-737055336)
+ * ### [TEDxTsukubaU](https://github.com/furuhashilab/2020gsc_TatsumiBaba/issues/4#issuecomment-737055786)
+ 
+ （我々の開催形式も同様に書き出した。）
+ * ### [TEDxAoyamaGakuinU](https://github.com/furuhashilab/2020gsc_TatsumiBaba/issues/5#issuecomment-740454044)
+ 
+ このフィードバックを頭に入れたのち、1月30日（土）にTEDxU合同オンラインMTGを実施した。同志社大学・立教大学・青山学院大学の３大学での実施であり、各大学がどのように開催したのかを共有してから、「使用ツールの利便性、撮影・編集のスキル共有、機材はどの程度のものを使用したのか、オンライン開催を実施する上で大切な演出とは何か、そして今後のTEDxオンライン開催に向けてのアイディア」という議題に絞り、話し合いを行った。
  
  
 ## Result
