@@ -14,7 +14,8 @@
 © Furuhashi Laboratory/Tatsumi Baba, CC BY 4.0
 
 
-# 【2020年度ゼミ論】タイトル：
+# 【2020年度ゼミ論】タイトル：オンラインカンファレンスにおける技術的な視点からの効果的な開催方法の提案 - TEDxAoyamaGakuinU 2020 を例に -
+
 
 
 ## Introduction
