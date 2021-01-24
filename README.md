@@ -13,6 +13,9 @@
 
 © Furuhashi Laboratory/Tatsumi Baba, CC BY 4.0
 
+## 中間発表
+https://medium.com/furuhashilab/tedx%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E9%96%8B%E5%82%AC%E4%BA%8B%E4%BE%8B-65bc6a98a747
+
 
 # 【2020年度ゼミ論】タイトル：オンラインカンファレンスにおける技術的な視点からの効果的な開催方法の提案 - TEDxAoyamaGakuinU 2020 を例に -
 
