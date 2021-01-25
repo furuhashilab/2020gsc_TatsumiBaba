@@ -63,6 +63,7 @@ https://medium.com/furuhashilab/tedx%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B
  ※ 合同MTGが終了次第追記予定
  
 ## 参考文献
+https://docs.google.com/spreadsheets/d/1SjcWvmtWm6nMPZyXguaSfbIQkOx94L64CQdga94MWr8/edit?usp=sharing
 
 ## プレゼンスライド
 https://docs.google.com/presentation/d/1H85FTqR-6-wKqo0yw27PWMEKncuCJZtcp5A1FQeMtMM/edit?usp=sharing
