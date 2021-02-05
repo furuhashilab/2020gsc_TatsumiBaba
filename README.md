@@ -74,10 +74,10 @@ https://medium.com/furuhashilab/tedx%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B
  
  
 ## 参考文献
-https://docs.google.com/spreadsheets/d/1SjcWvmtWm6nMPZyXguaSfbIQkOx94L64CQdga94MWr8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1hxuNrp9uW-1u_dr1eAdvkfiLaAEsG08PAoZkMWn0nIo/edit?usp=sharing
 
 ## プレゼンスライド
-https://docs.google.com/presentation/d/1H85FTqR-6-wKqo0yw27PWMEKncuCJZtcp5A1FQeMtMM/edit?usp=sharing
+https://docs.google.com/presentation/d/1jTJXZth0m3q-k9PECXHpWVuEru3ZRGem-w-bjVc8wQc/edit?usp=sharing
 
 ## プロジェクトリンク
 https://github.com/furuhashilab/2020gsc_TatsumiBaba/projects/1
