@@ -61,7 +61,7 @@ https://medium.com/furuhashilab/tedx%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B
  
 ## Result
  ※ 合同MTGが終了次第追記予定
- 
+ まず、合同MTGを開催したことをふまえ、今後のオンライン開催を実施する上で有益なことをまとめた。
  
 ## Conclusion
  ※ 合同MTGが終了次第追記予定
